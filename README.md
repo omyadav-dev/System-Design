@@ -1,6 +1,6 @@
 #  System Design for ML Engineers
 
-## 📅 Day 01: Client-Server Architecture & Proxies
+##  Day 01: Client-Server Architecture & Proxies
 
 ### 1. The Core: Request & Response Model
 *Client-Server Architecture is the fundamental building block of the web.It is a distributed framework that divides tasks between service providers (**Servers**) and service requesters (**Clients**)
