@@ -1,4 +1,4 @@
-#  System Design for ML Engineers
+#  System Design for ML
 
 ##  Day 01: Client-Server Architecture & Proxies
 
